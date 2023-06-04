@@ -1,6 +1,3 @@
-const { Category } = require('../models');
-
-
 // category data models
 const categoryData = [
     {
